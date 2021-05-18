@@ -1,0 +1,2 @@
+D:\Sheeba\WPFSamples\SignalChat\ServerChat\obj\Debug\ServerChat.csprojAssemblyReference.cache
+D:\Sheeba\WPFSamples\SignalChat\ServerChat\obj\Debug\ServerChat.csproj.CoreCompileInputs.cache
